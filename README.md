@@ -12,7 +12,7 @@ I do stuff.
 
 ### Links
 
-- 🌐 Visit my [blog](https://omerustun.com.tr). (Posts in Turkish)
+- 🌐 Visit my [blog](https://omerustun.com.tr). (Posts in Turkish&English)
 - 📄 Connect on [LinkedIn](https://www.linkedin.com/in/omerbustun/) for business inquiries.
 - 🐦 Follow on [Twitter](https://twitter.com/omerbustun).
 
